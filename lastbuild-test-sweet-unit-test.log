@@ -1,0 +1,38 @@
+> Task :clean
+> Task :app:clean
+> Task :app:preBuild UP-TO-DATE
+> Task :app:preSweetDebugBuild UP-TO-DATE
+> Task :app:compileSweetDebugAidl NO-SOURCE
+> Task :app:compileSweetDebugRenderscript NO-SOURCE
+> Task :app:generateSweetDebugBuildConfig
+> Task :app:generateSweetDebugResValues
+> Task :app:generateSweetDebugResources
+> Task :app:checkSweetDebugAarMetadata
+> Task :app:packageSweetDebugResources
+> Task :app:createSweetDebugCompatibleScreenManifests
+> Task :app:extractDeepLinksSweetDebug
+> Task :app:parseSweetDebugLocalResources
+> Task :app:mergeSweetDebugResources
+> Task :app:processSweetDebugMainManifest
+> Task :app:mapSweetDebugSourceSetPaths
+> Task :app:processSweetDebugManifest
+> Task :app:javaPreCompileSweetDebug
+> Task :app:preSweetDebugUnitTestBuild UP-TO-DATE
+> Task :app:javaPreCompileSweetDebugUnitTest
+> Task :app:processSweetDebugManifestForPackage
+> Task :app:processSweetDebugJavaRes NO-SOURCE
+> Task :app:processSweetDebugUnitTestJavaRes NO-SOURCE
+> Task :app:processSweetDebugResources
+> Task :app:compileSweetDebugKotlin
+> Task :app:compileSweetDebugJavaWithJavac
+> Task :app:bundleSweetDebugClassesToRuntimeJar
+> Task :app:bundleSweetDebugClassesToCompileJar
+
+> Task :app:compileSweetDebugUnitTestKotlin
+w: /Users/sn587w/projects/play-android/app/src/test/java/com/wayfair/playandroid/ExampleUnitTest.kt: (15, 25): This expression will be resolved to Int in future releases. Please add explicit conversion call
+
+> Task :app:compileSweetDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :app:testSweetDebugUnitTest
+
+BUILD SUCCESSFUL in 4s
+23 actionable tasks: 23 executed

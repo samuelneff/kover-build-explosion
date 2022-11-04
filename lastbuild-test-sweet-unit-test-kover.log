@@ -1,0 +1,139 @@
+> Task :clean
+> Task :app:clean
+> Task :app:preBuild UP-TO-DATE
+> Task :app:preSweetDebugBuild UP-TO-DATE
+> Task :app:compileSweetDebugAidl NO-SOURCE
+> Task :app:compileSweetDebugRenderscript NO-SOURCE
+> Task :app:generateSweetDebugBuildConfig
+> Task :app:generateSweetDebugResValues
+> Task :app:generateSweetDebugResources
+> Task :app:checkSweetDebugAarMetadata
+> Task :app:packageSweetDebugResources
+> Task :app:createSweetDebugCompatibleScreenManifests
+> Task :app:extractDeepLinksSweetDebug
+> Task :app:parseSweetDebugLocalResources
+> Task :app:mergeSweetDebugResources
+> Task :app:processSweetDebugMainManifest
+> Task :app:mapSweetDebugSourceSetPaths
+> Task :app:processSweetDebugManifest
+> Task :app:javaPreCompileSweetDebug
+> Task :app:preSweetDebugUnitTestBuild UP-TO-DATE
+> Task :app:processSweetDebugJavaRes NO-SOURCE
+> Task :app:javaPreCompileSweetDebugUnitTest
+> Task :app:processSweetDebugUnitTestJavaRes NO-SOURCE
+> Task :app:preSaltyDebugBuild UP-TO-DATE
+> Task :app:compileSaltyDebugAidl NO-SOURCE
+> Task :app:compileSaltyDebugRenderscript NO-SOURCE
+> Task :app:generateSaltyDebugBuildConfig
+> Task :app:generateSaltyDebugResValues
+> Task :app:generateSaltyDebugResources
+> Task :app:checkSaltyDebugAarMetadata
+> Task :app:packageSaltyDebugResources
+> Task :app:createSaltyDebugCompatibleScreenManifests
+> Task :app:extractDeepLinksSaltyDebug
+> Task :app:parseSaltyDebugLocalResources
+> Task :app:mergeSaltyDebugResources
+> Task :app:processSaltyDebugMainManifest
+> Task :app:mapSaltyDebugSourceSetPaths
+> Task :app:processSaltyDebugManifest
+> Task :app:preSaltyDebugUnitTestBuild UP-TO-DATE
+> Task :app:javaPreCompileSaltyDebug
+> Task :app:processSaltyDebugJavaRes NO-SOURCE
+> Task :app:javaPreCompileSaltyDebugUnitTest
+> Task :app:processSaltyDebugUnitTestJavaRes NO-SOURCE
+> Task :app:preSaltyReleaseBuild UP-TO-DATE
+> Task :app:compileSaltyReleaseAidl NO-SOURCE
+> Task :app:compileSaltyReleaseRenderscript NO-SOURCE
+> Task :app:generateSaltyReleaseBuildConfig
+> Task :app:generateSaltyReleaseResValues
+> Task :app:generateSaltyReleaseResources
+> Task :app:checkSaltyReleaseAarMetadata
+> Task :app:packageSaltyReleaseResources
+> Task :app:createSaltyReleaseCompatibleScreenManifests
+> Task :app:extractDeepLinksSaltyRelease
+> Task :app:parseSaltyReleaseLocalResources
+> Task :app:mergeSaltyReleaseResources
+> Task :app:processSaltyReleaseMainManifest
+> Task :app:mapSaltyReleaseSourceSetPaths
+> Task :app:processSaltyReleaseManifest
+> Task :app:javaPreCompileSaltyRelease
+> Task :app:writeSaltyReleaseApplicationId
+> Task :app:analyticsRecordingSaltyRelease
+> Task :app:preSaltyReleaseUnitTestBuild UP-TO-DATE
+> Task :app:processSaltyReleaseJavaRes NO-SOURCE
+> Task :app:processSaltyReleaseUnitTestJavaRes NO-SOURCE
+> Task :app:preSweetReleaseBuild UP-TO-DATE
+> Task :app:javaPreCompileSaltyReleaseUnitTest
+> Task :app:compileSweetReleaseAidl NO-SOURCE
+> Task :app:compileSweetReleaseRenderscript NO-SOURCE
+> Task :app:generateSweetReleaseBuildConfig
+> Task :app:generateSweetReleaseResValues
+> Task :app:generateSweetReleaseResources
+> Task :app:checkSweetReleaseAarMetadata
+> Task :app:processSaltyReleaseManifestForPackage
+> Task :app:packageSweetReleaseResources
+> Task :app:parseSweetReleaseLocalResources
+> Task :app:createSweetReleaseCompatibleScreenManifests
+> Task :app:extractDeepLinksSweetRelease
+> Task :app:mergeSweetReleaseResources
+> Task :app:processSweetReleaseMainManifest
+> Task :app:mapSweetReleaseSourceSetPaths
+> Task :app:processSweetReleaseManifest
+> Task :app:processSweetDebugManifestForPackage
+> Task :app:processSaltyDebugManifestForPackage
+> Task :app:javaPreCompileSweetRelease
+> Task :app:writeSweetReleaseApplicationId
+> Task :app:analyticsRecordingSweetRelease
+> Task :app:preSweetReleaseUnitTestBuild UP-TO-DATE
+> Task :app:processSweetReleaseJavaRes NO-SOURCE
+> Task :app:processSweetReleaseUnitTestJavaRes NO-SOURCE
+> Task :app:javaPreCompileSweetReleaseUnitTest
+> Task :app:processSweetReleaseManifestForPackage
+> Task :app:processSaltyReleaseResources
+> Task :app:processSweetDebugResources
+> Task :app:processSaltyDebugResources
+> Task :app:processSweetReleaseResources
+> Task :app:compileSaltyReleaseKotlin
+> Task :app:compileSweetDebugKotlin
+> Task :app:compileSweetDebugJavaWithJavac
+> Task :app:bundleSweetDebugClassesToRuntimeJar
+> Task :app:bundleSweetDebugClassesToCompileJar
+> Task :app:compileSaltyDebugKotlin
+> Task :app:compileSaltyDebugJavaWithJavac
+> Task :app:bundleSaltyDebugClassesToRuntimeJar
+> Task :app:bundleSaltyDebugClassesToCompileJar
+> Task :app:compileSaltyReleaseJavaWithJavac
+> Task :app:bundleSaltyReleaseClassesToRuntimeJar
+> Task :app:bundleSaltyReleaseClassesToCompileJar
+> Task :app:compileSweetReleaseKotlin
+> Task :app:compileSweetReleaseJavaWithJavac
+> Task :app:bundleSweetReleaseClassesToRuntimeJar
+> Task :app:bundleSweetReleaseClassesToCompileJar
+
+> Task :app:compileSaltyReleaseUnitTestKotlin
+w: /Users/sn587w/projects/play-android/app/src/test/java/com/wayfair/playandroid/ExampleUnitTest.kt: (15, 25): This expression will be resolved to Int in future releases. Please add explicit conversion call
+
+> Task :app:compileSaltyReleaseUnitTestJavaWithJavac NO-SOURCE
+> Task :app:testSaltyReleaseUnitTest
+
+> Task :app:compileSweetReleaseUnitTestKotlin
+w: /Users/sn587w/projects/play-android/app/src/test/java/com/wayfair/playandroid/ExampleUnitTest.kt: (15, 25): This expression will be resolved to Int in future releases. Please add explicit conversion call
+
+> Task :app:compileSweetReleaseUnitTestJavaWithJavac NO-SOURCE
+
+> Task :app:compileSweetDebugUnitTestKotlin
+w: /Users/sn587w/projects/play-android/app/src/test/java/com/wayfair/playandroid/ExampleUnitTest.kt: (15, 25): This expression will be resolved to Int in future releases. Please add explicit conversion call
+
+> Task :app:compileSweetDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :app:testSweetReleaseUnitTest
+
+> Task :app:compileSaltyDebugUnitTestKotlin
+w: /Users/sn587w/projects/play-android/app/src/test/java/com/wayfair/playandroid/ExampleUnitTest.kt: (15, 25): This expression will be resolved to Int in future releases. Please add explicit conversion call
+
+> Task :app:compileSaltyDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :app:testSaltyDebugUnitTest
+> Task :app:testSweetDebugUnitTest
+> Task :app:koverXmlReport
+
+BUILD SUCCESSFUL in 15s
+91 actionable tasks: 91 executed
